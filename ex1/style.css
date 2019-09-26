@@ -1,0 +1,24 @@
+.conteudo {
+    margin-top: 20px;
+}
+
+
+#inputA {
+    margin-right: 25px;
+}
+
+#inputB {
+    margin-right: 25px;
+}
+
+#processar {
+
+}
+
+#resultado {
+    border: solid 1px #5157fb;
+}
+
+.conteudoResultado {
+    margin-top: 30px;
+}
